@@ -24,7 +24,7 @@ const PjList = () => {
         <img src={singer} className="w-full h-40 object-cover rounded-lg" alt="Singer Project" />
       </a>
       <a
-        href="https://your-todo-url.com"
+        href="https://todo-list-rouge-chi-26.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:scale-105 transition-transform duration-300"
@@ -32,7 +32,7 @@ const PjList = () => {
         <img src={todo} className="w-full h-40 object-cover rounded-lg" alt="Todo Project" />
       </a>
       <a
-        href="https://your-work-url.com"
+        href="https://jobpj.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:scale-105 transition-transform duration-300"

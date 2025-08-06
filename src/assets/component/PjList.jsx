@@ -16,7 +16,8 @@ const PjList = () => {
         <img src={Login} className="w-full h-40 object-cover rounded-lg" alt="Login Project" />
       </a>
       <a
-        href="https://song-ivory.vercel.app/"        target="_blank"
+        href="https://song-ivory.vercel.app/"        
+        target="_blank"
         rel="noopener noreferrer"
         className="hover:scale-105 transition-transform duration-300"
       >

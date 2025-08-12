@@ -5,7 +5,7 @@ import Footer from './Footer'
 const Welcome = () => {
   return (
     <div >
-        <img src={myphoto} className=' ml-1 lg:ml-43 absolute left-fit top-20  h-30 z-0 rounded-full w-30 sm:w-50 sm:h-50  ' alt="" />
+        <img src={myphoto} className=' ml-1 lg:ml-43 absolute object-cover border-4 border-emerald-900 left-fit top-20  h-30 z-0 rounded-full w-30 sm:w-50 sm:h-50  ' alt="" />
       <div className='  mt-18 text-center '>
         <h1 className='text-2xl ml-30 md:text-[70px]  font-bold text-emerald-400  '>
           Welcome To My Portfolio
